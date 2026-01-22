@@ -22,6 +22,8 @@ Proyectos enfocados en la exploración, limpieza y análisis de conjuntos de dat
 El objetivo principal de este proyecto es **analizar datos históricos del PIB de México** y aplicar un **modelo de regresión lineal** para **predecir el valor del PIB en el año 2022**.  
 Este proyecto sirve como una **introducción práctica al uso de algoritmos de Machine Learning** aplicados al análisis de datos económicos.
 
+![Regresión Lineal PIB México](https://github.com/diorel/Data-Science-Portfolio/blob/main/img/ImgRegresionLineal.png?raw=true)
+
 **Descripción del proyecto:**  
 - 📈 [Regresión Lineal – PIB México](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_Supervisado/Regrecion_Lineal_PIB_MEX)
 
@@ -42,6 +44,7 @@ Proyectos orientados a la creación de gráficas y visualizaciones para comunica
 - NumPy  
 - Matplotlib  
 - Scikit-learn  
+
 
 
 
