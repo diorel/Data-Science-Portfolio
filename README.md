@@ -15,7 +15,7 @@ Proyectos enfocados en la exploración, limpieza y análisis de conjuntos de dat
 
 #### 📌 Aprendizaje supervisado
 
-### 📈  Regresión Lineal
+### Regresión Lineal
 
 ###### Cálculo del PIB de México – Regresión Lineal
 
