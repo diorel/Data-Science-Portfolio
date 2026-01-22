@@ -23,7 +23,7 @@ El objetivo principal de este proyecto es **analizar datos históricos del PIB d
 Este proyecto sirve como una **introducción práctica al uso de algoritmos de Machine Learning** aplicados al análisis de datos económicos.
 
 <p align="center">
-  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/ImgRegresionLineal.png?raw=true" width="500">
+  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/ImgRegresionLineal.png?raw=true" width="200">
 </p>
 
 **Descripción del proyecto:**  
