@@ -15,14 +15,14 @@ Proyectos enfocados en la exploración, limpieza y análisis de conjuntos de dat
 
 #### 📌 Aprendizaje supervisado
 
-##### 📈 Regresión Lineal
+#####📈  Regresión Lineal
 
-###### 📊 Cálculo del PIB de México – Regresión Lineal
+###### Cálculo del PIB de México – Regresión Lineal
 
 El objetivo principal de este proyecto es **analizar datos históricos del PIB de México** y aplicar un **modelo de regresión lineal** para **predecir el valor del PIB en el año 2022**.  
 Este proyecto sirve como una **introducción práctica al uso de algoritmos de Machine Learning** aplicados al análisis de datos económicos.
 
-- 📈 [Regresión Lineal – PIB México](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_Supervisado/Regrecion_Lineal_PIB_MEX)
+- [Regresión Lineal – PIB México](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_Supervisado/Regrecion_Lineal_PIB_MEX)
 
 ---
 
