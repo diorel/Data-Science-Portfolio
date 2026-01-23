@@ -28,6 +28,20 @@ Este proyecto sirve como una **introducción práctica al uso de algoritmos de M
 **Notebook:**  
 - 📓 [Notebook – Análisis y Modelo de Regresión Lineal](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/Regrecion_Lineal_PIB_MEX/area%20M19-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
 
+
+### Regresión Regularizada (Ridge y Lasso)
+
+###### Análisis de Emisiones de CO₂ – Regresión Múltiple, Ridge y Lasso
+
+El objetivo principal de este proyecto es **analizar un conjunto de datos que contiene información sobre emisiones de CO₂ y otras variables relacionadas**, aplicando técnicas de **regresión múltiple, Ridge y Lasso** para construir modelos predictivos.  
+Se evalúa el desempeño de los modelos mediante **métricas de bondad de ajuste** y finalmente se **comparan los resultados** para determinar cuál de los enfoques es más efectivo.
+
+**Descripción del proyecto:**  
+- 📈 [Regresión Regularizada – Ridge y Lasso](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_Supervisado/RegresionRegularizada_Ridge_LAsso)
+
+**Notebook:**  
+- 📓 [Notebook – Regresión Múltiple, Ridge y Lasso](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/RegresionRegularizada_Ridge_LAsso/PracticaM20-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
+
 ---
 
 ### 📈 Visualización de Datos
