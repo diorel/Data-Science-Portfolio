@@ -6,6 +6,11 @@ Este proyecto tiene como objetivo construir y evaluar modelos de regresión múl
 
 El proyecto se centra en el análisis de un conjunto de datos que contiene información sobre emisiones de CO2 y otras variables relacionadas. Se aplican técnicas de regresión múltiple, Ridge y Lasso para construir modelos predictivos y evaluar su desempeño mediante métricas de bondad de ajuste. Finalmente, se comparan los resultados de los modelos para determinar cuál es el más efectivo.
 
+<p align="center">
+  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/RegresionRegularizada_Ridge_LAsso/Regresion_R_L.png?raw=true" width="450">
+</p>
+
+
 ## Objetivos
 
 1. **Preprocesamiento de datos**:
