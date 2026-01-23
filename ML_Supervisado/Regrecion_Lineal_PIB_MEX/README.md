@@ -3,7 +3,7 @@
 Este proyecto utiliza técnicas de Machine Learning, específicamente **Regresión Lineal**, para estimar el Producto Interno Bruto (PIB) de México en el año 2022. A través del análisis de datos históricos, se busca construir un modelo predictivo que permita realizar estimaciones precisas del PIB.
 
 <p align="center">
-  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/ImgRegresionLineal.png?raw=true" width="250">
+  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/ImgRegresionLineal.png?raw=true" width="450">
 </p>
 
 ## Descripción del Proyecto
