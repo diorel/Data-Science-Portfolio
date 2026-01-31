@@ -1,7 +1,7 @@
 
 # Análisis Predictivo de Rotación de Empleados con Máquinas de Soporte Vectorial (SVM)
 
-Este proyecto es una práctica de Máquinas de Soporte Vectorial (SVM) desarrollada como parte del Bootcamp. El objetivo principal es analizar las razones por las cuales los empleados deciden dejar una empresa para unirse a la competencia. Este problema representa un desafío importante para los departamentos de recursos humanos, y se aborda mediante la creación de modelos predictivos de Machine Learning.
+Este proyecto es una práctica de Máquinas de Soporte Vectorial (SVM). El objetivo principal es analizar las razones por las cuales los empleados deciden dejar una empresa para unirse a la competencia. Este problema representa un desafío importante para los departamentos de recursos humanos, y se aborda mediante la creación de modelos predictivos de Machine Learning.
 
 ## Objetivo del Proyecto
 
