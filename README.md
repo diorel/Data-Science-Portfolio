@@ -84,14 +84,10 @@ Este tipo de modelo es ampliamente utilizado en el sector salud debido a su **in
 El proyecto representa una **aplicación práctica de Machine Learning supervisado**, orientada a la **clasificación multiclase**.
 
 **Descripción del proyecto:**  
-- 🌳 [Árboles de Decisión – Clasificación de Medicamentos](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_Supervisado/ArbolesDecisión)
+- 🌳 [Árboles de Decisión – Clasificación de Medicamentos](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/ArbolesDecisi%C3%B3n/Reademe.md)
 
 **Notebook:**  
-- 📓 [Notebook – Implementación de Árboles de Decisión](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/ArbolesDecisión/Tarea%20M23-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
-
-
-
-
+- 📓 [Notebook – Implementación de Árboles de Decisión](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/ArbolesDecisi%C3%B3n/Tarea%20M23-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
 ---
 
 ### 📈 Visualización de Datos
