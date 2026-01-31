@@ -68,9 +68,6 @@ Este proyecto sirve como una **introducción práctica al algoritmo KNN**, abord
 El objetivo principal de este proyecto es **analizar las razones por las cuales los empleados deciden abandonar una empresa** y aplicar el algoritmo de **Máquinas de Soporte Vectorial (SVM)** para **predecir la rotación de personal**.  
 Este problema representa un reto importante para los **departamentos de Recursos Humanos**, ya que una alta rotación impacta directamente en los costos y la productividad de la organización.
 
-El proyecto se enfoca en la **construcción de modelos predictivos de Machine Learning**, evaluando distintos **kernels de SVM** para identificar el modelo que ofrece el mejor desempeño.
----
-
 **Descripción del proyecto:**  
 - 📈 [Máquinas de Soporte Vectorial (SVM) – Rotación de Empleados](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_Supervisado/SVM)
 
