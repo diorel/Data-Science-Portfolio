@@ -3,14 +3,6 @@
 Este repositorio contiene proyectos de **Ciencia de Datos** desarrollados en **Python**, enfocados en análisis de datos, machine learning y visualización.
 
 ---
-
-## 🔹 Proyectos
-
-### 📊 Análisis Exploratorio de Datos
-Proyectos enfocados en la exploración, limpieza y análisis de conjuntos de datos para obtener insights relevantes.
-
----
-
 ### 🤖 Machine Learning
 
 #### 📌 Aprendizaje supervisado
@@ -58,12 +50,6 @@ Este proyecto sirve como una **introducción práctica al algoritmo KNN**, abord
 **Notebook:**  
 - 📓 [Notebook – Implementación del Algoritmo KNN](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/Algoritmo%20KNN/Tarea%20M21-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
 
-<p align="center">
-  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/KNN.png?raw=true" width="450">
-</p>
-
-
-
 
 ---
 
@@ -71,6 +57,15 @@ Este proyecto sirve como una **introducción práctica al algoritmo KNN**, abord
 Proyectos orientados a la creación de gráficas y visualizaciones para comunicar resultados de manera clara y efectiva.
 
 ---
+
+## 🔹 Proyectos
+
+### 📊 Análisis Exploratorio de Datos
+Proyectos enfocados en la exploración, limpieza y análisis de conjuntos de datos para obtener insights relevantes.
+
+---
+
+
 
 ## 🛠️ Tecnologías
 
