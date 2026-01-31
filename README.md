@@ -69,14 +69,6 @@ El objetivo principal de este proyecto es **analizar las razones por las cuales 
 Este problema representa un reto importante para los **departamentos de Recursos Humanos**, ya que una alta rotación impacta directamente en los costos y la productividad de la organización.
 
 El proyecto se enfoca en la **construcción de modelos predictivos de Machine Learning**, evaluando distintos **kernels de SVM** para identificar el modelo que ofrece el mejor desempeño.
-
----
-
-### 🎯 Objetivo del proyecto
-
-Construir un **modelo de clasificación basado en Máquinas de Soporte Vectorial (SVM)** que permita **predecir si un empleado dejará la empresa o no**, utilizando variables relacionadas con su **desempeño, satisfacción y condiciones laborales**.  
-Adicionalmente, se busca **comparar distintos tipos de kernel** para determinar cuál se ajusta mejor a los datos.
-
 ---
 
 **Descripción del proyecto:**  
