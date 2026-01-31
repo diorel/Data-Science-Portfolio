@@ -61,6 +61,30 @@ Este proyecto sirve como una **introducción práctica al algoritmo KNN**, abord
 - 📓 [Notebook – Implementación del Algoritmo KNN](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/Algoritmo%20KNN/Tarea%20M21-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
 
 
+### Algoritmo de Máquinas de Soporte Vectorial (SVM)
+
+###### Análisis Predictivo de Rotación de Empleados – Clasificación con SVM
+
+El objetivo principal de este proyecto es **analizar las razones por las cuales los empleados deciden abandonar una empresa** y aplicar el algoritmo de **Máquinas de Soporte Vectorial (SVM)** para **predecir la rotación de personal**.  
+Este problema representa un reto importante para los **departamentos de Recursos Humanos**, ya que una alta rotación impacta directamente en los costos y la productividad de la organización.
+
+El proyecto se enfoca en la **construcción de modelos predictivos de Machine Learning**, evaluando distintos **kernels de SVM** para identificar el modelo que ofrece el mejor desempeño.
+
+---
+
+### 🎯 Objetivo del proyecto
+
+Construir un **modelo de clasificación basado en Máquinas de Soporte Vectorial (SVM)** que permita **predecir si un empleado dejará la empresa o no**, utilizando variables relacionadas con su **desempeño, satisfacción y condiciones laborales**.  
+Adicionalmente, se busca **comparar distintos tipos de kernel** para determinar cuál se ajusta mejor a los datos.
+
+---
+
+**Descripción del proyecto:**  
+- 📈 [Máquinas de Soporte Vectorial (SVM) – Rotación de Empleados](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_Supervisado/SVM)
+
+**Notebook:**  
+- 📓 [Notebook – Implementación de SVM para Rotación de Empleados](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/SVM/Tarea%20M22-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
+
 ---
 
 ### 📈 Visualización de Datos
