@@ -74,6 +74,47 @@ Este problema representa un reto importante para los **departamentos de Recursos
 **Notebook:**  
 - 📓 [Notebook – Implementación de SVM para Rotación de Empleados](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/SVM/Tarea%20M22-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
 
+### Algoritmo de Árboles de Decisión
+
+###### Clasificación de Medicamentos – Árboles de Decisión
+
+El objetivo principal de este proyecto es **construir un modelo de clasificación utilizando Árboles de Decisión** para **predecir el medicamento más adecuado para un paciente**, a partir de sus **características clínicas**.  
+Este tipo de modelo es ampliamente utilizado en el sector salud debido a su **interpretabilidad y facilidad de explicación**, lo cual resulta clave en la toma de decisiones médicas.
+
+El proyecto representa una **aplicación práctica de Machine Learning supervisado**, orientada a la **clasificación multiclase**.
+
+---
+
+### 🩺 Problema
+
+Eres un **investigador médico** que ha recopilado información de un conjunto de pacientes que padecen la misma enfermedad.  
+Durante su tratamiento, cada paciente ha mostrado una respuesta positiva a **uno de los cinco medicamentos disponibles**:
+
+- Fármaco A  
+- Fármaco B  
+- Fármaco C  
+- Fármaco X  
+- Fármaco Y  
+
+El reto consiste en **predecir cuál de estos medicamentos sería el más adecuado para un nuevo paciente**, utilizando sus datos clínicos como variables de entrada.
+
+---
+
+### 🎯 Objetivo del proyecto
+
+Construir un **modelo predictivo basado en Árboles de Decisión** que permita **clasificar a los pacientes** y recomendar el medicamento más adecuado, apoyando la **toma de decisiones médicas** mediante técnicas de Machine Learning.
+
+---
+
+**Descripción del proyecto:**  
+- 🌳 [Árboles de Decisión – Clasificación de Medicamentos](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_Supervisado/ArbolesDecisión)
+
+**Notebook:**  
+- 📓 [Notebook – Implementación de Árboles de Decisión](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/ArbolesDecisión/Tarea%20M23-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
+
+
+
+
 ---
 
 ### 📈 Visualización de Datos
