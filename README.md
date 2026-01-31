@@ -83,29 +83,6 @@ Este tipo de modelo es ampliamente utilizado en el sector salud debido a su **in
 
 El proyecto representa una **aplicación práctica de Machine Learning supervisado**, orientada a la **clasificación multiclase**.
 
----
-
-### 🩺 Problema
-
-Eres un **investigador médico** que ha recopilado información de un conjunto de pacientes que padecen la misma enfermedad.  
-Durante su tratamiento, cada paciente ha mostrado una respuesta positiva a **uno de los cinco medicamentos disponibles**:
-
-- Fármaco A  
-- Fármaco B  
-- Fármaco C  
-- Fármaco X  
-- Fármaco Y  
-
-El reto consiste en **predecir cuál de estos medicamentos sería el más adecuado para un nuevo paciente**, utilizando sus datos clínicos como variables de entrada.
-
----
-
-### 🎯 Objetivo del proyecto
-
-Construir un **modelo predictivo basado en Árboles de Decisión** que permita **clasificar a los pacientes** y recomendar el medicamento más adecuado, apoyando la **toma de decisiones médicas** mediante técnicas de Machine Learning.
-
----
-
 **Descripción del proyecto:**  
 - 🌳 [Árboles de Decisión – Clasificación de Medicamentos](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_Supervisado/ArbolesDecisión)
 
