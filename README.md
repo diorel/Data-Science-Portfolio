@@ -42,6 +42,29 @@ Se evalúa el desempeño de los modelos mediante **métricas de bondad de ajuste
 **Notebook:**  
 - 📓 [Notebook – Regresión Múltiple, Ridge y Lasso](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/RegresionRegularizada_Ridge_LAsso/PracticaM20-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
 
+
+### Algoritmo K-Nearest Neighbors (KNN)
+
+###### Análisis de Recursos Humanos – Clasificación con KNN
+
+El objetivo principal de este proyecto es **analizar un conjunto de datos relacionado con recursos humanos** y aplicar el algoritmo de **K-Nearest Neighbors (KNN)** para **resolver un problema de clasificación**.  
+El proyecto utiliza **Python y la biblioteca `pandas`** para la manipulación de datos y permite comprender de forma práctica el funcionamiento de **modelos basados en distancia** dentro del aprendizaje supervisado.
+
+Este proyecto sirve como una **introducción práctica al algoritmo KNN**, abordando desde la **exploración de datos** hasta la **implementación y evaluación del modelo**.
+
+**Descripción del proyecto:**  
+- 📈 [Algoritmo KNN – Recursos Humanos](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_Supervisado/Algoritmo%20KNN)
+
+**Notebook:**  
+- 📓 [Notebook – Implementación del Algoritmo KNN](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_Supervisado/Algoritmo%20KNN/Tarea%20M21-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
+
+<p align="center">
+  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/KNN.png?raw=true" width="450">
+</p>
+
+
+
+
 ---
 
 ### 📈 Visualización de Datos
