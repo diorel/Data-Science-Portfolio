@@ -3,6 +3,8 @@
 Este repositorio contiene proyectos de **Ciencia de Datos** desarrollados en **Python**, enfocados en análisis de datos, machine learning y visualización.
 
 ---
+## 🔹 Proyectos
+
 ### 🤖 Machine Learning
 
 #### 📌 Aprendizaje supervisado
@@ -58,7 +60,7 @@ Proyectos orientados a la creación de gráficas y visualizaciones para comunica
 
 ---
 
-## 🔹 Proyectos
+
 
 ### 📊 Análisis Exploratorio de Datos
 Proyectos enfocados en la exploración, limpieza y análisis de conjuntos de datos para obtener insights relevantes.
