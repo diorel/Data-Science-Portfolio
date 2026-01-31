@@ -3,6 +3,12 @@
 
 Este proyecto implementa el algoritmo K-Nearest Neighbors (KNN) utilizando Python y la biblioteca `pandas` para el análisis de datos. El objetivo principal es analizar un conjunto de datos relacionado con recursos humanos y aplicar el algoritmo KNN para resolver problemas específicos.
 
+
+<p align="center">
+  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/KNN.png?raw=true?raw=true" width="450">
+</p>
+
+
 ## Archivos del Proyecto
 
 - **Tarea M21-CD – RaulCortesAmador.ipynb**: Contiene el código principal del proyecto, incluyendo la carga y análisis del conjunto de datos, así como la implementación del algoritmo KNN.
