@@ -3,6 +3,11 @@
 
 Este proyecto es una práctica de Máquinas de Soporte Vectorial (SVM). El objetivo principal es analizar las razones por las cuales los empleados deciden dejar una empresa para unirse a la competencia. Este problema representa un desafío importante para los departamentos de recursos humanos, y se aborda mediante la creación de modelos predictivos de Machine Learning.
 
+<p align="center">
+  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/Soporte%20vectores.png?raw=true" width="450">
+</p>
+
+
 ## Objetivo del Proyecto
 
 El objetivo es construir un modelo predictivo utilizando el método de Máquinas de Soporte Vectorial (SVM) para predecir si un empleado dejará la empresa o no, basándose en diversas características relacionadas con su desempeño, satisfacción y condiciones laborales. Además, se busca identificar el modelo más adecuado entre los diferentes tipos de kernel disponibles en SVM.
