@@ -8,6 +8,10 @@ Eres un investigador médico que ha recopilado datos sobre un conjunto de pacien
 
 El objetivo principal de este proyecto es construir un modelo predictivo que permita determinar qué medicamento sería más adecuado para un futuro paciente con la misma enfermedad. Para ello, se utiliza un árbol de decisión como modelo de clasificación.
 
+<p align="center">
+  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/arbol.png?raw=true" width="450">
+</p>
+
 ## Descripción de los Datos
 
 El conjunto de datos utilizado en este proyecto contiene información sobre los pacientes y las siguientes características:
