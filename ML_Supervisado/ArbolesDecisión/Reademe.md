@@ -2,15 +2,15 @@
 
 Este proyecto es una práctica de Machine Learning enfocada en la construcción de un modelo de clasificación utilizando árboles de decisión. El objetivo es predecir el medicamento más adecuado para un paciente con base en sus características clínicas.
 
+<p align="center">
+  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/arbol.png?raw=true" width="450">
+</p>
+
 ## Problema
 
 Eres un investigador médico que ha recopilado datos sobre un conjunto de pacientes, todos ellos con la misma enfermedad. Durante su tratamiento, cada paciente ha respondido a uno de los cinco medicamentos disponibles: **fármaco A, fármaco B, fármaco C, fármaco X y fármaco Y**.
 
 El objetivo principal de este proyecto es construir un modelo predictivo que permita determinar qué medicamento sería más adecuado para un futuro paciente con la misma enfermedad. Para ello, se utiliza un árbol de decisión como modelo de clasificación.
-
-<p align="center">
-  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/arbol.png?raw=true" width="450">
-</p>
 
 ## Descripción de los Datos
 
