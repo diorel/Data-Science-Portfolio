@@ -2,6 +2,14 @@
 
 Este repositorio contiene proyectos de **Ciencia de Datos** desarrollados en **Python**, enfocados en análisis de datos, machine learning y visualización.
 
+## 🛠️ Tecnologías
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
+
 ---
 ## 🔹 Proyectos
 
@@ -69,13 +77,7 @@ Proyectos enfocados en la exploración, limpieza y análisis de conjuntos de dat
 
 
 
-## 🛠️ Tecnologías
 
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Scikit-learn  
 
 
 
