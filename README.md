@@ -101,12 +101,6 @@ A partir de este análisis, se busca **identificar patrones de comportamiento** 
 
 El proyecto representa una **aplicación práctica de Machine Learning no supervisado**, enfocada en la **segmentación de clientes** y sistemas de recomendación.
 
-- Salomé  
-- Stephanía  
-- Lydia  
-
----
-
 **Descripción del proyecto:**  
 - 🧩 [Clustering Jerárquico – Preferencias de Clientes](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_No_Supervizado/ArbolJerarquico)
 
