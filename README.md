@@ -92,22 +92,27 @@ El proyecto representa una **aplicación práctica de Machine Learning supervisa
 #### 📌 Aprendizaje de máquina no supervisado
 
 
+### Algoritmo de Clustering Jerárquico
 
+###### Análisis de Preferencias de Clientes – Clustering Jerárquico
 
+Este proyecto implementa un **Algoritmo de Clustering Jerárquico** para **analizar las evaluaciones promedio de productos realizadas por 100 clientes** que adquirieron los mismos o productos similares en la tienda **Amazon**.  
+A partir de este análisis, se busca **identificar patrones de comportamiento** y generar **recomendaciones personalizadas** para clientes específicos.
 
----
+El proyecto representa una **aplicación práctica de Machine Learning no supervisado**, enfocada en la **segmentación de clientes** y sistemas de recomendación.
 
-### 📈 Visualización de Datos
-Proyectos orientados a la creación de gráficas y visualizaciones para comunicar resultados de manera clara y efectiva.
-
----
-
-
-
-### 📊 Análisis Exploratorio de Datos
-Proyectos enfocados en la exploración, limpieza y análisis de conjuntos de datos para obtener insights relevantes.
+- Salomé  
+- Stephanía  
+- Lydia  
 
 ---
+
+**Descripción del proyecto:**  
+- 🧩 [Clustering Jerárquico – Preferencias de Clientes](https://github.com/diorel/Data-Science-Portfolio/tree/main/ML_No_Supervizado/ArbolJerarquico)
+
+**Notebook:**  
+- 📓 [Notebook – Implementación de Clustering Jerárquico](https://github.com/diorel/Data-Science-Portfolio/blob/main/ML_No_Supervizado/ArbolJerarquico/Tarea%20M26-CD%20%E2%80%93%20RaulCortesAmador.ipynb)
+
 
 
 
