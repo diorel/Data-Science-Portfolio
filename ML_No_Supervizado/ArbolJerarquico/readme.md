@@ -2,6 +2,10 @@
 
 Este proyecto implementa un **Algoritmo de Clustering Jerárquico** para analizar los promedios de evaluación de 100 personas que adquirieron los mismos productos o productos similares en la tienda Amazon. A partir de este análisis, se busca realizar recomendaciones personalizadas para tres clientes: Salomé, Stephanía y Lydia, basándonos en las preferencias y evaluaciones de otros clientes.
 
+<p align="center">
+  <img src="https://github.com/diorel/Data-Science-Portfolio/blob/main/img/ArbolJerarquico.png?raw=true" width="450">
+</p>
+
 ## Descripción del Proyecto
 
 El archivo de datos proporcionado, `Amazon.csv`, contiene información sobre las evaluaciones promedio de productos realizadas por 100 clientes. Utilizando un algoritmo de Clustering Jerárquico, se agrupan los clientes en clústeres basados en sus preferencias de productos, lo que permite identificar patrones y realizar recomendaciones personalizadas.
